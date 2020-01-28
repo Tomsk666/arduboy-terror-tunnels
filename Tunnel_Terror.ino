@@ -1,5 +1,6 @@
 /*  Tunnel Terror by Tom Millichamp & Jamie Millichamp
     January 2020
+    Copyright 2020 Tom Millichamp
 */
 #include <Arduboy2.h>
 #include <ArduboyTones.h>
