@@ -271,5 +271,6 @@ void open_door(){
     }
     if (strength>10)
             strength=10;
-    waitForButtonAPress();
+    if (chalices!=3)
+      waitForButtonAPress();
 }
